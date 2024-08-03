@@ -2,16 +2,14 @@ name: Update Invidious Instances
 
 on:
   schedule:
-    # Runs every 3 hours
     - cron: '0 */3 * * *'
   workflow_dispatch:
 
 jobs:
   update:
     runs-on: ubuntu-latest
-
     steps:
-    - name: Checkout code
+    - name: Checkout repository
       uses: actions/checkout@v3
 
     - name: Set up Python
@@ -23,14 +21,17 @@ jobs:
       run: |
         pip install -r requirements.txt
 
-    - name: Run the script
+    - name: Run script
       run: |
         python check_invidious_instances.py
 
-    - name: Commit and push changes
+    - name: Configure Git
+      run: |
+        git config --global user.email "github-actions@github.com"
+        git config --global user.name "GitHub Actions"
+
+    - name: Commit changes
       run: |
         git add output/
         git commit -m "Update Invidious instances output" || echo "No changes to commit"
         git push
-      # Ignore errors for cases where there are no changes to commit
-      continue-on-error: true
