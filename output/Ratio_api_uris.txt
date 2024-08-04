@@ -4,7 +4,6 @@ invidious.privacydev.net
 iv.melmac.space
 inv.tux.pizza
 invidious.protokolla.fi
-invidious.private.coffee
 yt.drgnz.club
 iv.datura.network
 invidious.fdn.fr
@@ -14,9 +13,10 @@ invidious.jing.rocks
 invidious.privacyredirect.com
 invidious.reallyaweso.me
 invidious.incogniweb.net
-invidious.darkness.services
 yewtu.be
+invidious.private.coffee
 invidious.materialio.us
 inv.nadeko.net
 invidious.drgns.space
 inv.in.projectsegfau.lt
+invidious.darkness.services

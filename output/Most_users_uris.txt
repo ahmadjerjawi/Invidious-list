@@ -11,7 +11,6 @@ yt.artemislena.eu
 invidious.materialio.us
 invidious.reallyaweso.me
 iv.datura.network
-invidious.darkness.services
 yt.drgnz.club
 yewtu.be
 invidious.incogniweb.net
@@ -20,3 +19,4 @@ inv.nadeko.net
 invidious.drgns.space
 invidious.privacyredirect.com
 inv.in.projectsegfau.lt
+invidious.darkness.services
