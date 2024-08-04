@@ -11,8 +11,8 @@ inv.tux.pizza
 invidious.incogniweb.net
 yt.drgnz.club
 invidious.flokinet.to
-iv.melmac.space
 invidious.reallyaweso.me
+iv.melmac.space
 invidious.jing.rocks
 invidious.privacydev.net
 inv.nadeko.net
