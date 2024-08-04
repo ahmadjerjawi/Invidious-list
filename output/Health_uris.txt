@@ -9,11 +9,11 @@ invidious.fdn.fr
 invidious.materialio.us
 inv.tux.pizza
 invidious.incogniweb.net
-yt.drgnz.club
-invidious.flokinet.to
-invidious.reallyaweso.me
-iv.melmac.space
 invidious.jing.rocks
+yt.drgnz.club
+invidious.reallyaweso.me
+invidious.flokinet.to
+iv.melmac.space
 invidious.privacydev.net
 inv.nadeko.net
 invidious.darkness.services
