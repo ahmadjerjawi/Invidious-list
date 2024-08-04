@@ -6,8 +6,8 @@ invidious.private.coffee
 invidious.privacyredirect.com
 iv.datura.network
 invidious.fdn.fr
-invidious.materialio.us
 invidious.jing.rocks
+invidious.materialio.us
 inv.tux.pizza
 invidious.incogniweb.net
 yt.drgnz.club
