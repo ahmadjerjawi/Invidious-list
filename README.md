@@ -6,7 +6,7 @@ The `check_invidious_instances.py` script is a tool designed to fetch, analyze, 
 
 ## Purpose
 
-YouTube’s official interface has limited flexibility and customization options, especially for users who prioritize privacy and performance. Invidious offers a more flexible front-end that can be customized to suit user needs. This script makes it easier to discover and keep track of the status of various Invidious instances, allowing users to choose the best instance based on real-time data.
+YouTube’s official interface has limited flexibility and customization options, especially for users who prioritize privacy and performance. Invidious offers a more flexible front-end that can be customized to suit user needs. This script makes it easier to discover and keep track of the status of various Invidious instances, allowing users to choose the best instance based on api calls.
 
 ## Features
 
