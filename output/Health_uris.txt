@@ -1,10 +1,10 @@
 invidious.protokolla.fi
 invidious.perennialte.ch
-yt.artemislena.eu
 yewtu.be
 invidious.private.coffee
 invidious.privacyredirect.com
 iv.datura.network
+yt.artemislena.eu
 invidious.fdn.fr
 invidious.jing.rocks
 invidious.materialio.us
