@@ -4,15 +4,15 @@ yewtu.be
 invidious.private.coffee
 invidious.privacyredirect.com
 iv.datura.network
-yt.artemislena.eu
 invidious.fdn.fr
+yt.artemislena.eu
 invidious.jing.rocks
 invidious.materialio.us
 invidious.reallyaweso.me
 inv.tux.pizza
 invidious.incogniweb.net
-yt.drgnz.club
 iv.melmac.space
+yt.drgnz.club
 invidious.privacydev.net
 invidious.flokinet.to
 invidious.darkness.services
