@@ -8,7 +8,6 @@ iv.datura.network
 invidious.fdn.fr
 invidious.perennialte.ch
 invidious.nerdvpn.de
-invidious.jing.rocks
 invidious.privacyredirect.com
 invidious.reallyaweso.me
 invidious.materialio.us
@@ -18,5 +17,6 @@ invidious.darkness.services
 yewtu.be
 invidious.flokinet.to
 invidious.private.coffee
+invidious.jing.rocks
 inv.nadeko.net
 invidious.drgns.space
