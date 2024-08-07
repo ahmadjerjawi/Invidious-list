@@ -12,8 +12,8 @@ invidious.reallyaweso.me
 inv.tux.pizza
 invidious.incogniweb.net
 iv.melmac.space
-yt.drgnz.club
 invidious.privacydev.net
+yt.drgnz.club
 invidious.flokinet.to
 invidious.darkness.services
 inv.nadeko.net
