@@ -1,5 +1,6 @@
 invidious.fdn.fr
 inv.tux.pizza
+invidious.flokinet.to
 invidious.privacydev.net
 invidious.protokolla.fi
 invidious.nerdvpn.de
@@ -8,15 +9,14 @@ invidious.jing.rocks
 invidious.perennialte.ch
 yt.artemislena.eu
 invidious.materialio.us
+invidious.reallyaweso.me
+inv.in.projectsegfau.lt
 iv.datura.network
 invidious.darkness.services
 yt.drgnz.club
 yewtu.be
 invidious.incogniweb.net
-invidious.flokinet.to
 iv.melmac.space
 inv.nadeko.net
 invidious.drgns.space
 invidious.privacyredirect.com
-invidious.reallyaweso.me
-inv.in.projectsegfau.lt

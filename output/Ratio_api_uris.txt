@@ -10,7 +10,9 @@ invidious.perennialte.ch
 invidious.nerdvpn.de
 invidious.jing.rocks
 invidious.privacyredirect.com
+invidious.reallyaweso.me
 invidious.materialio.us
+inv.in.projectsegfau.lt
 invidious.incogniweb.net
 invidious.darkness.services
 yewtu.be
@@ -18,5 +20,3 @@ invidious.flokinet.to
 invidious.private.coffee
 inv.nadeko.net
 invidious.drgns.space
-invidious.reallyaweso.me
-inv.in.projectsegfau.lt
