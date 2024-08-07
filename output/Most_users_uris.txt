@@ -9,7 +9,6 @@ invidious.perennialte.ch
 yt.artemislena.eu
 invidious.materialio.us
 invidious.reallyaweso.me
-inv.in.projectsegfau.lt
 iv.datura.network
 invidious.darkness.services
 yt.drgnz.club
@@ -20,3 +19,4 @@ iv.melmac.space
 inv.nadeko.net
 invidious.drgns.space
 invidious.privacyredirect.com
+inv.in.projectsegfau.lt
