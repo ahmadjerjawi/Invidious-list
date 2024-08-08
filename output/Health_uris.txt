@@ -5,8 +5,8 @@ invidious.private.coffee
 invidious.privacyredirect.com
 iv.datura.network
 invidious.fdn.fr
-yt.artemislena.eu
 invidious.jing.rocks
+yt.artemislena.eu
 inv.tux.pizza
 invidious.materialio.us
 invidious.reallyaweso.me
