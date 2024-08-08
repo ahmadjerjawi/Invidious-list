@@ -15,8 +15,8 @@ invidious.privacyredirect.com
 invidious.incogniweb.net
 invidious.darkness.services
 yewtu.be
-inv.nadeko.net
 invidious.reallyaweso.me
 invidious.materialio.us
+inv.nadeko.net
 invidious.drgns.space
 inv.in.projectsegfau.lt

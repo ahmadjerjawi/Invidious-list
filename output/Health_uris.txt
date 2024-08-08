@@ -6,11 +6,11 @@ invidious.privacyredirect.com
 iv.datura.network
 invidious.fdn.fr
 invidious.jing.rocks
+invidious.incogniweb.net
 yt.artemislena.eu
 inv.tux.pizza
 invidious.materialio.us
 invidious.reallyaweso.me
-invidious.incogniweb.net
 iv.melmac.space
 invidious.privacydev.net
 yt.drgnz.club
