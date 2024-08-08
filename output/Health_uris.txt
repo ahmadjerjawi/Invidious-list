@@ -16,7 +16,7 @@ invidious.privacydev.net
 yt.drgnz.club
 invidious.flokinet.to
 invidious.darkness.services
-inv.nadeko.net
 inv.in.projectsegfau.lt
+inv.nadeko.net
 invidious.nerdvpn.de
 invidious.drgns.space
