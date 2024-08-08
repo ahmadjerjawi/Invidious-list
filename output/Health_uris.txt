@@ -7,9 +7,9 @@ iv.datura.network
 invidious.fdn.fr
 yt.artemislena.eu
 invidious.jing.rocks
+inv.tux.pizza
 invidious.materialio.us
 invidious.reallyaweso.me
-inv.tux.pizza
 invidious.incogniweb.net
 iv.melmac.space
 invidious.privacydev.net
