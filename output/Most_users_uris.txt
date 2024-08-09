@@ -8,7 +8,6 @@ invidious.private.coffee
 invidious.jing.rocks
 invidious.perennialte.ch
 yt.artemislena.eu
-invidious.materialio.us
 invidious.reallyaweso.me
 inv.in.projectsegfau.lt
 invidious.darkness.services
@@ -20,3 +19,4 @@ iv.melmac.space
 inv.nadeko.net
 invidious.drgns.space
 invidious.privacyredirect.com
+invidious.materialio.us
