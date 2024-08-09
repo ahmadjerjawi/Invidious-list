@@ -4,7 +4,7 @@ invidious.flokinet.to
 invidious.privacydev.net
 invidious.protokolla.fi
 invidious.nerdvpn.de
-invidious.jing.rocks
+invidious.private.coffee
 invidious.perennialte.ch
 yt.artemislena.eu
 invidious.materialio.us
@@ -17,6 +17,6 @@ yewtu.be
 invidious.incogniweb.net
 iv.melmac.space
 inv.nadeko.net
-invidious.private.coffee
 invidious.drgns.space
+invidious.jing.rocks
 invidious.privacyredirect.com
