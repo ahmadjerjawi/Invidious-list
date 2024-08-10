@@ -10,8 +10,8 @@ invidious.jing.rocks
 yt.artemislena.eu
 invidious.reallyaweso.me
 inv.tux.pizza
-invidious.materialio.us
 iv.melmac.space
+invidious.materialio.us
 invidious.privacydev.net
 yt.drgnz.club
 invidious.flokinet.to

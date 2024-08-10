@@ -1,5 +1,4 @@
 yt.artemislena.eu
-invidious.flokinet.to
 invidious.privacydev.net
 iv.melmac.space
 inv.tux.pizza
@@ -17,6 +16,7 @@ inv.in.projectsegfau.lt
 invidious.incogniweb.net
 invidious.darkness.services
 yewtu.be
+invidious.flokinet.to
 inv.nadeko.net
 invidious.drgns.space
 invidious.materialio.us
