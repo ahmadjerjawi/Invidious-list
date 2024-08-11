@@ -14,9 +14,9 @@ invidious.nerdvpn.de
 invidious.jing.rocks
 invidious.privacyredirect.com
 invidious.reallyaweso.me
+invidious.materialio.us
 inv.in.projectsegfau.lt
 invidious.incogniweb.net
 invidious.darkness.services
 yewtu.be
-invidious.materialio.us
 invidious.drgns.space
