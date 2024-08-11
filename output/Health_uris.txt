@@ -8,8 +8,8 @@ invidious.fdn.fr
 invidious.jing.rocks
 invidious.reallyaweso.me
 inv.tux.pizza
-iv.datura.network
 yt.artemislena.eu
+iv.datura.network
 iv.melmac.space
 invidious.privacydev.net
 invidious.materialio.us
