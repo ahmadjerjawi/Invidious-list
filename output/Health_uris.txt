@@ -11,12 +11,12 @@ invidious.reallyaweso.me
 inv.tux.pizza
 yt.artemislena.eu
 iv.melmac.space
-invidious.materialio.us
 invidious.privacydev.net
+invidious.materialio.us
 yt.drgnz.club
 invidious.flokinet.to
 invidious.darkness.services
 inv.in.projectsegfau.lt
-inv.nadeko.net
 invidious.nerdvpn.de
+inv.nadeko.net
 invidious.drgns.space
