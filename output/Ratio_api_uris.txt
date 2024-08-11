@@ -1,4 +1,3 @@
-yt.artemislena.eu
 invidious.privacydev.net
 iv.melmac.space
 inv.nadeko.net
@@ -15,8 +14,9 @@ invidious.privacyredirect.com
 invidious.reallyaweso.me
 inv.in.projectsegfau.lt
 invidious.incogniweb.net
-invidious.darkness.services
 yewtu.be
-invidious.materialio.us
 invidious.flokinet.to
+invidious.materialio.us
+yt.artemislena.eu
 invidious.drgns.space
+invidious.darkness.services
