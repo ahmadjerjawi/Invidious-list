@@ -4,9 +4,9 @@ yewtu.be
 invidious.private.coffee
 invidious.privacyredirect.com
 invidious.incogniweb.net
+invidious.reallyaweso.me
 invidious.fdn.fr
 invidious.jing.rocks
-invidious.reallyaweso.me
 inv.tux.pizza
 yt.artemislena.eu
 iv.datura.network
