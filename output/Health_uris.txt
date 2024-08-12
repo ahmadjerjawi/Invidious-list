@@ -10,9 +10,9 @@ invidious.jing.rocks
 inv.tux.pizza
 yt.artemislena.eu
 iv.datura.network
-iv.melmac.space
 invidious.privacydev.net
 invidious.materialio.us
+iv.melmac.space
 yt.drgnz.club
 invidious.flokinet.to
 invidious.darkness.services
