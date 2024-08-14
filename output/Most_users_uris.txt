@@ -1,7 +1,4 @@
 invidious.nerdvpn.de
 inv.nadeko.net
 invidious.jing.rocks
-yt.artemislena.eu
-invidious.materialio.us
 yewtu.be
-iv.melmac.space
