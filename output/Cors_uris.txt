@@ -1,4 +1,5 @@
 invidious.nerdvpn.de
+iv.ggtyler.dev
 invidious.jing.rocks
 yewtu.be
 inv.nadeko.net
