@@ -3,4 +3,5 @@ invidious.nerdvpn.de
 iv.ggtyler.dev
 invidious.jing.rocks
 invidious.perennialte.ch
+invidious.reallyaweso.me
 yewtu.be

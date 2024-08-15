@@ -3,4 +3,5 @@ invidious.nerdvpn.de
 inv.nadeko.net
 invidious.jing.rocks
 invidious.perennialte.ch
+invidious.reallyaweso.me
 yewtu.be
