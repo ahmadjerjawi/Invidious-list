@@ -1,5 +1,6 @@
 invidious.perennialte.ch
 yewtu.be
+invidious.privacyredirect.com
 iv.ggtyler.dev
 invidious.reallyaweso.me
 invidious.jing.rocks
