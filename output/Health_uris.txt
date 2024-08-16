@@ -1,8 +1,9 @@
 invidious.perennialte.ch
 yewtu.be
-invidious.privacyredirect.com
 iv.ggtyler.dev
 invidious.reallyaweso.me
+invidious.privacyredirect.com
 invidious.jing.rocks
 invidious.nerdvpn.de
 inv.nadeko.net
+invidious.einfachzocken.eu
