@@ -4,6 +4,6 @@ iv.ggtyler.dev
 invidious.jing.rocks
 invidious.perennialte.ch
 invidious.reallyaweso.me
+invidious.privacyredirect.com
 invidious.einfachzocken.eu
 yewtu.be
-invidious.privacyredirect.com
