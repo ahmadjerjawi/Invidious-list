@@ -5,5 +5,5 @@ invidious.jing.rocks
 invidious.perennialte.ch
 invidious.reallyaweso.me
 invidious.privacyredirect.com
-yewtu.be
 invidious.einfachzocken.eu
+yewtu.be
