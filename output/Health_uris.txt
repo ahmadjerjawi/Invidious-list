@@ -3,7 +3,7 @@ yewtu.be
 iv.ggtyler.dev
 invidious.reallyaweso.me
 invidious.jing.rocks
-invidious.privacyredirect.com
 invidious.nerdvpn.de
+invidious.privacyredirect.com
 inv.nadeko.net
 invidious.einfachzocken.eu
