@@ -1,3 +1,4 @@
+inv.tux.pizza
 iv.ggtyler.dev
 inv.nadeko.net
 invidious.jing.rocks
