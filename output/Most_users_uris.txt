@@ -1,10 +1,10 @@
+inv.tux.pizza
 iv.ggtyler.dev
 inv.nadeko.net
 invidious.nerdvpn.de
 invidious.jing.rocks
 invidious.perennialte.ch
 invidious.reallyaweso.me
+invidious.einfachzocken.eu
 yewtu.be
 invidious.privacyredirect.com
-invidious.einfachzocken.eu
-inv.tux.pizza

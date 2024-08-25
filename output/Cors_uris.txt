@@ -5,6 +5,6 @@ invidious.jing.rocks
 invidious.perennialte.ch
 invidious.reallyaweso.me
 invidious.privacyredirect.com
+inv.tux.pizza
 yewtu.be
 invidious.einfachzocken.eu
-inv.tux.pizza
