@@ -1,4 +1,3 @@
-inv.nadeko.net
 invidious.nerdvpn.de
 iv.ggtyler.dev
 invidious.jing.rocks
@@ -9,3 +8,4 @@ invidious.einfachzocken.eu
 inv.tux.pizza
 iv.nboeck.de
 yewtu.be
+inv.nadeko.net
