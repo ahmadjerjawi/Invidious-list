@@ -9,3 +9,4 @@ iv.ggtyler.dev
 invidious.privacyredirect.com
 inv.nadeko.net
 invidious.einfachzocken.eu
+iv.nowhere.moe
