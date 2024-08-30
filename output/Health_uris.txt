@@ -5,8 +5,8 @@ invidious.perennialte.ch
 invidious.jing.rocks
 invidious.nerdvpn.de
 inv.tux.pizza
-iv.ggtyler.dev
 invidious.privacyredirect.com
+iv.ggtyler.dev
 inv.nadeko.net
 invidious.einfachzocken.eu
 iv.nowhere.moe
