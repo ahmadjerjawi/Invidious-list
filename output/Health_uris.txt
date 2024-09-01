@@ -5,8 +5,8 @@ invidious.jing.rocks
 invidious.perennialte.ch
 invidious.reallyaweso.me
 invidious.nerdvpn.de
-inv.tux.pizza
 invidious.privacyredirect.com
+inv.tux.pizza
 invidious.yourdevice.ch
 iv.ggtyler.dev
 inv.nadeko.net
