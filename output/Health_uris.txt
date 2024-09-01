@@ -4,8 +4,8 @@ iv.nboeck.de
 invidious.jing.rocks
 invidious.perennialte.ch
 invidious.reallyaweso.me
-inv.tux.pizza
 invidious.nerdvpn.de
+inv.tux.pizza
 invidious.privacyredirect.com
 invidious.yourdevice.ch
 iv.ggtyler.dev
