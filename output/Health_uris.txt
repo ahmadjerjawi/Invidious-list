@@ -6,8 +6,8 @@ invidious.perennialte.ch
 invidious.reallyaweso.me
 invidious.nerdvpn.de
 invidious.privacyredirect.com
-invidious.yourdevice.ch
 inv.tux.pizza
+invidious.yourdevice.ch
 iv.ggtyler.dev
 inv.nadeko.net
 invidious.einfachzocken.eu
