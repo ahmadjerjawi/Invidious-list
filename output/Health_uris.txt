@@ -1,7 +1,7 @@
 yewtu.be
 invidious.jing.rocks
-invidious.adminforge.de
 iv.nboeck.de
+invidious.adminforge.de
 invidious.perennialte.ch
 invidious.reallyaweso.me
 invidious.nerdvpn.de
