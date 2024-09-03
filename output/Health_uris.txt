@@ -7,8 +7,8 @@ invidious.reallyaweso.me
 invidious.nerdvpn.de
 invidious.privacyredirect.com
 inv.tux.pizza
-invidious.yourdevice.ch
 iv.ggtyler.dev
+invidious.yourdevice.ch
 inv.nadeko.net
 invidious.einfachzocken.eu
 iv.nowhere.moe
