@@ -4,8 +4,8 @@ invidious.adminforge.de
 iv.nboeck.de
 invidious.perennialte.ch
 invidious.reallyaweso.me
-invidious.nerdvpn.de
 invidious.privacyredirect.com
+invidious.nerdvpn.de
 inv.tux.pizza
 iv.ggtyler.dev
 invidious.yourdevice.ch
