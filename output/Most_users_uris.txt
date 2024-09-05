@@ -3,12 +3,12 @@ iv.ggtyler.dev
 inv.nadeko.net
 invidious.nerdvpn.de
 invidious.jing.rocks
-iv.nboeck.de
 invidious.perennialte.ch
 invidious.reallyaweso.me
-invidious.einfachzocken.eu
 invidious.adminforge.de
-invidious.yourdevice.ch
 iv.nowhere.moe
 yewtu.be
 invidious.privacyredirect.com
+invidious.einfachzocken.eu
+iv.nboeck.de
+invidious.yourdevice.ch
