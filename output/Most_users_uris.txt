@@ -1,3 +1,4 @@
+iv.ggtyler.dev
 inv.nadeko.net
 invidious.jing.rocks
 iv.nboeck.de
@@ -9,6 +10,5 @@ invidious.yourdevice.ch
 iv.nowhere.moe
 yewtu.be
 invidious.nerdvpn.de
-iv.ggtyler.dev
 invidious.privacyredirect.com
 inv.tux.pizza
