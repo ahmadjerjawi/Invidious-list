@@ -1,6 +1,4 @@
 inv.nadeko.net
-invidious.nerdvpn.de
-iv.ggtyler.dev
 invidious.jing.rocks
 invidious.perennialte.ch
 invidious.reallyaweso.me
@@ -11,4 +9,6 @@ invidious.adminforge.de
 invidious.yourdevice.ch
 yewtu.be
 invidious.einfachzocken.eu
+invidious.nerdvpn.de
+iv.ggtyler.dev
 inv.tux.pizza
