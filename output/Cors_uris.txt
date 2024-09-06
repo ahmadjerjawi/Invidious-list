@@ -7,8 +7,8 @@ invidious.reallyaweso.me
 invidious.privacyredirect.com
 inv.tux.pizza
 iv.nboeck.de
-yewtu.be
-invidious.einfachzocken.eu
 iv.nowhere.moe
 invidious.adminforge.de
+yewtu.be
+invidious.einfachzocken.eu
 invidious.yourdevice.ch
