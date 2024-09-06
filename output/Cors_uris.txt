@@ -6,9 +6,9 @@ invidious.perennialte.ch
 invidious.reallyaweso.me
 invidious.privacyredirect.com
 inv.tux.pizza
-iv.nowhere.moe
-invidious.adminforge.de
+iv.nboeck.de
 yewtu.be
 invidious.einfachzocken.eu
-iv.nboeck.de
+iv.nowhere.moe
+invidious.adminforge.de
 invidious.yourdevice.ch
