@@ -6,8 +6,8 @@ iv.nboeck.de
 invidious.reallyaweso.me
 invidious.privacyredirect.com
 invidious.nerdvpn.de
-inv.tux.pizza
 invidious.yourdevice.ch
+inv.tux.pizza
 iv.ggtyler.dev
 inv.nadeko.net
 invidious.einfachzocken.eu
