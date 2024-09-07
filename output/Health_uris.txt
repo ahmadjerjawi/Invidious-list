@@ -6,6 +6,7 @@ iv.nboeck.de
 invidious.reallyaweso.me
 invidious.privacyredirect.com
 invidious.nerdvpn.de
+invidious.privacydev.net
 invidious.yourdevice.ch
 inv.tux.pizza
 iv.ggtyler.dev
