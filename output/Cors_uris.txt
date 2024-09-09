@@ -9,7 +9,7 @@ inv.tux.pizza
 iv.nboeck.de
 iv.nowhere.moe
 invidious.adminforge.de
-yewtu.be
-invidious.einfachzocken.eu
 invidious.yourdevice.ch
 invidious.privacydev.net
+yewtu.be
+invidious.einfachzocken.eu
