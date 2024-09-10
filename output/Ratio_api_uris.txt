@@ -8,8 +8,8 @@ invidious.privacyredirect.com
 invidious.einfachzocken.eu
 inv.tux.pizza
 iv.nboeck.de
+invidious.yourdevice.ch
+yewtu.be
+invidious.privacydev.net
 iv.nowhere.moe
 invidious.adminforge.de
-invidious.yourdevice.ch
-invidious.privacydev.net
-yewtu.be
