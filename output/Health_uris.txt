@@ -3,8 +3,8 @@ invidious.jing.rocks
 invidious.adminforge.de
 invidious.perennialte.ch
 iv.nboeck.de
-invidious.reallyaweso.me
 inv.nadeko.net
+invidious.reallyaweso.me
 invidious.privacyredirect.com
 invidious.nerdvpn.de
 invidious.privacydev.net
