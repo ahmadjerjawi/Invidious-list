@@ -1,4 +1,6 @@
+inv.tux.pizza
 iv.ggtyler.dev
+invidious.privacydev.net
 inv.nadeko.net
 invidious.nerdvpn.de
 invidious.jing.rocks
@@ -9,8 +11,5 @@ invidious.adminforge.de
 invidious.yourdevice.ch
 iv.nowhere.moe
 yewtu.be
-mcaptcha.org/
 invidious.privacyredirect.com
 invidious.einfachzocken.eu
-inv.tux.pizza
-invidious.privacydev.net

@@ -5,12 +5,11 @@ invidious.jing.rocks
 invidious.perennialte.ch
 invidious.reallyaweso.me
 invidious.privacyredirect.com
+inv.tux.pizza
 iv.nboeck.de
 iv.nowhere.moe
 invidious.adminforge.de
 invidious.yourdevice.ch
+invidious.privacydev.net
 yewtu.be
 invidious.einfachzocken.eu
-inv.tux.pizza
-mcaptcha.org/
-invidious.privacydev.net

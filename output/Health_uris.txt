@@ -12,5 +12,4 @@ inv.tux.pizza
 invidious.yourdevice.ch
 iv.ggtyler.dev
 invidious.einfachzocken.eu
-mcaptcha.org/
 iv.nowhere.moe
