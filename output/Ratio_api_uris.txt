@@ -13,3 +13,4 @@ invidious.adminforge.de
 invidious.yourdevice.ch
 invidious.privacydev.net
 yewtu.be
+mcaptcha.org/

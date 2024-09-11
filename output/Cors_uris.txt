@@ -13,3 +13,4 @@ invidious.yourdevice.ch
 invidious.privacydev.net
 yewtu.be
 invidious.einfachzocken.eu
+mcaptcha.org/
