@@ -1,14 +1,14 @@
 yewtu.be
-invidious.jing.rocks
 invidious.adminforge.de
+invidious.jing.rocks
 invidious.perennialte.ch
 iv.nboeck.de
 inv.nadeko.net
 invidious.reallyaweso.me
 invidious.privacyredirect.com
 invidious.nerdvpn.de
-invidious.privacydev.net
 inv.tux.pizza
+invidious.privacydev.net
 invidious.yourdevice.ch
 iv.ggtyler.dev
 invidious.einfachzocken.eu
