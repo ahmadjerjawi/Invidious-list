@@ -1,6 +1,6 @@
-inv.nadeko.net
 invidious.nerdvpn.de
 iv.ggtyler.dev
+invidious.jing.rocks
 invidious.perennialte.ch
 invidious.reallyaweso.me
 invidious.privacyredirect.com
@@ -12,4 +12,4 @@ invidious.yourdevice.ch
 invidious.privacydev.net
 yewtu.be
 invidious.einfachzocken.eu
-invidious.jing.rocks
+inv.nadeko.net
