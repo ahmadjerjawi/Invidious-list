@@ -1,6 +1,6 @@
 yewtu.be
-invidious.adminforge.de
 invidious.perennialte.ch
+invidious.adminforge.de
 iv.nboeck.de
 inv.nadeko.net
 invidious.reallyaweso.me
