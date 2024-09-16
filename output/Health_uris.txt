@@ -4,8 +4,8 @@ invidious.adminforge.de
 iv.nboeck.de
 inv.nadeko.net
 invidious.reallyaweso.me
-invidious.jing.rocks
 invidious.privacyredirect.com
+invidious.jing.rocks
 invidious.nerdvpn.de
 inv.tux.pizza
 invidious.privacydev.net

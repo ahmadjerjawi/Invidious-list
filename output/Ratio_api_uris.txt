@@ -10,6 +10,6 @@ iv.nboeck.de
 iv.nowhere.moe
 invidious.adminforge.de
 invidious.yourdevice.ch
-invidious.privacydev.net
 yewtu.be
 invidious.jing.rocks
+invidious.privacydev.net
