@@ -4,7 +4,6 @@ iv.ggtyler.dev
 invidious.perennialte.ch
 invidious.reallyaweso.me
 invidious.privacyredirect.com
-invidious.einfachzocken.eu
 inv.tux.pizza
 iv.nboeck.de
 iv.nowhere.moe
@@ -12,4 +11,5 @@ invidious.adminforge.de
 invidious.yourdevice.ch
 invidious.privacydev.net
 yewtu.be
+invidious.einfachzocken.eu
 invidious.jing.rocks

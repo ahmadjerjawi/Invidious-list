@@ -9,7 +9,7 @@ invidious.nerdvpn.de
 inv.tux.pizza
 invidious.privacydev.net
 invidious.yourdevice.ch
-invidious.jing.rocks
 iv.ggtyler.dev
+invidious.jing.rocks
 invidious.einfachzocken.eu
 iv.nowhere.moe
