@@ -8,8 +8,8 @@ inv.nadeko.net
 invidious.nerdvpn.de
 inv.tux.pizza
 invidious.privacydev.net
-invidious.jing.rocks
 invidious.yourdevice.ch
+invidious.jing.rocks
 iv.ggtyler.dev
 invidious.einfachzocken.eu
 iv.nowhere.moe
