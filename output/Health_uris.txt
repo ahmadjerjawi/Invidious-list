@@ -3,8 +3,8 @@ invidious.perennialte.ch
 invidious.adminforge.de
 iv.nboeck.de
 invidious.reallyaweso.me
-invidious.privacyredirect.com
 inv.nadeko.net
+invidious.privacyredirect.com
 invidious.nerdvpn.de
 inv.tux.pizza
 invidious.privacydev.net
