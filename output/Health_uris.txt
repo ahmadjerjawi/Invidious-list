@@ -2,8 +2,8 @@ yewtu.be
 invidious.perennialte.ch
 invidious.adminforge.de
 iv.nboeck.de
-invidious.privacyredirect.com
 invidious.reallyaweso.me
+invidious.privacyredirect.com
 inv.nadeko.net
 invidious.nerdvpn.de
 inv.tux.pizza
