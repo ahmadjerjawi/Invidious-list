@@ -2,14 +2,14 @@ inv.tux.pizza
 iv.ggtyler.dev
 invidious.privacydev.net
 inv.nadeko.net
-invidious.nerdvpn.de
-invidious.jing.rocks
 iv.nboeck.de
 invidious.perennialte.ch
 invidious.reallyaweso.me
 invidious.adminforge.de
 iv.nowhere.moe
 yewtu.be
+invidious.nerdvpn.de
+invidious.jing.rocks
 invidious.privacyredirect.com
 invidious.einfachzocken.eu
 invidious.yourdevice.ch
