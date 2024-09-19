@@ -4,12 +4,12 @@ invidious.adminforge.de
 iv.nboeck.de
 invidious.reallyaweso.me
 inv.nadeko.net
-invidious.privacyredirect.com
 invidious.nerdvpn.de
+invidious.privacyredirect.com
 inv.tux.pizza
 invidious.privacydev.net
-invidious.yourdevice.ch
 iv.ggtyler.dev
+invidious.yourdevice.ch
 invidious.jing.rocks
 invidious.einfachzocken.eu
 iv.nowhere.moe
