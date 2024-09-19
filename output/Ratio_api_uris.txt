@@ -10,6 +10,6 @@ inv.tux.pizza
 iv.nboeck.de
 iv.nowhere.moe
 invidious.adminforge.de
-invidious.yourdevice.ch
 invidious.privacydev.net
 yewtu.be
+invidious.yourdevice.ch
