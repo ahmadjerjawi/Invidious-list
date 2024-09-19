@@ -1,4 +1,4 @@
-invidious.nerdvpn.de
+inv.nadeko.net
 iv.ggtyler.dev
 invidious.jing.rocks
 invidious.perennialte.ch
@@ -10,6 +10,6 @@ iv.nowhere.moe
 invidious.adminforge.de
 invidious.privacydev.net
 yewtu.be
-inv.nadeko.net
+invidious.nerdvpn.de
 invidious.privacyredirect.com
 invidious.yourdevice.ch
