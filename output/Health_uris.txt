@@ -9,7 +9,7 @@ invidious.privacyredirect.com
 inv.tux.pizza
 invidious.privacydev.net
 iv.ggtyler.dev
-invidious.yourdevice.ch
 invidious.jing.rocks
+invidious.yourdevice.ch
 invidious.einfachzocken.eu
 iv.nowhere.moe
