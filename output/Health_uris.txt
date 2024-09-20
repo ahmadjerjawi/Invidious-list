@@ -1,15 +1,9 @@
 yewtu.be
 invidious.perennialte.ch
-invidious.adminforge.de
 invidious.reallyaweso.me
-iv.nboeck.de
-inv.nadeko.net
 invidious.nerdvpn.de
 invidious.privacyredirect.com
 inv.tux.pizza
-invidious.privacydev.net
 iv.ggtyler.dev
 invidious.jing.rocks
 invidious.yourdevice.ch
-invidious.einfachzocken.eu
-iv.nowhere.moe
