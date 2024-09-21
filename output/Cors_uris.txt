@@ -1,9 +1,3 @@
 invidious.nerdvpn.de
-iv.ggtyler.dev
 invidious.jing.rocks
-invidious.perennialte.ch
-invidious.reallyaweso.me
 invidious.privacyredirect.com
-inv.tux.pizza
-invidious.yourdevice.ch
-yewtu.be
