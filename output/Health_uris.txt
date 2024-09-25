@@ -1,4 +1,4 @@
 invidious.nerdvpn.de
-inv.nadeko.net
 invidious.privacyredirect.com
+inv.nadeko.net
 invidious.jing.rocks
