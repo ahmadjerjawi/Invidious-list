@@ -1,5 +1,5 @@
-invidious.nerdvpn.de
 invidious.jing.rocks
 invidious.privacyredirect.com
-yt.drgnz.club
 inv.nadeko.net
+invidious.nerdvpn.de
+yt.drgnz.club
