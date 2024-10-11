@@ -1,4 +1,4 @@
 invidious.jing.rocks
-inv.nadeko.net
 invidious.privacyredirect.com
 yt.drgnz.club
+inv.nadeko.net
