@@ -1,5 +1,5 @@
 invidious.jing.rocks
-invidious.nerdvpn.de
 invidious.catspeed.cc
 yewtu.be
 inv.nadeko.net
+invidious.nerdvpn.de
